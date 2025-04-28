@@ -1,6 +1,6 @@
-# Cookie‑Clicker API (Node + Express + PostgreSQL)
+# Cookie‑Clicker API (Node + Express + PostgreSQL) ⛈
 
-Back‑end ultra‑léger qui implémente **exactement** le swagger (`swagger.yaml`) pour le Cookie‑Clicker (Cloud Clicker maintenant). Conçu pour tourner :
+Back‑end ultra‑léger qui implémente **exactement** le swagger (`swagger.yaml`) pour le Cookie‑Clicker (Cloud ☁️⛈ Clicker maintenant). Conçu pour tourner :
 
 * **en local** (npm ou Docker) ;
 * **dans le cloud public** (Cloud Run, ECS, …)
@@ -47,7 +47,7 @@ npm run dev                  # nodemon src/server.js
 
 ---
 
-## 🐳 Lancer via Docker (+ PostgreSQL embarqué)
+## 🐳🐳🐳🐳🐳🐳🐳🐳🐳🐳🐳🐳🐳🐳🐳🐳🐳🐳 Lancer via Docker (+ PostgreSQL embarqué)
 
 ```bash
 docker compose up --build
